@@ -13,8 +13,6 @@
 - 🚀 &nbsp; Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafiadores, onde pude aplicar meu conhecimento e criatividade para resolver problemas complexos e entregar soluções de alta qualidade. Estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências e tecnologias no mundo do desenvolvimento web.
 - 🛠 No meu GitHub, você encontrará uma variedade de projetos que demonstram minha paixão pela programação e meu compromisso com a excelência. Estou sempre aberto a novas oportunidades e colaborações, então não hesite em entrar em contato comigo se estiver interessado em trabalhar juntos em projetos emocionantes.
 
-- Obrigado por visitar meu perfil e espero poder contribuir para o seu próximo projeto!
-
 - 💚 &nbsp; Obrigado por visitar meu perfil e espero poder contribuir para o seu próximo projeto!
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
