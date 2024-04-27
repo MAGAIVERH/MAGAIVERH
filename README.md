@@ -12,6 +12,7 @@
 - 💻 &nbsp; Minha jornada no mundo da programação me levou a explorar e dominar ferramentas poderosas como PostgreSQL, MongoDB e Prisma, permitindo-me criar aplicações robustas e eficientes. Além disso, sou um entusiasta do design responsivo e da criação de interfaces bonitas e intuitivas, utilizando o Tailwind CSS para alcançar resultados excepcionais.
 - 🚀 &nbsp; Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafiadores, onde pude aplicar meu conhecimento e criatividade para resolver problemas complexos e entregar soluções de alta qualidade. Estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências e tecnologias no mundo do desenvolvimento web.
 - 🛠 No meu GitHub, você encontrará uma variedade de projetos que demonstram minha paixão pela programação e meu compromisso com a excelência. Estou sempre aberto a novas oportunidades e colaborações, então não hesite em entrar em contato comigo se estiver interessado em trabalhar juntos em projetos emocionantes.
+- 💻 Tecnologias com as quais já trabalhei: HTML, css, javaScript , typeScript, React, Next, Node, Styled Components, React Router, Git, Jest, NoSQL (Mongodb), SQL (postgreSQL).
 
 - 💚 &nbsp; Obrigado por visitar meu perfil e espero poder contribuir para o seu próximo projeto!
 
