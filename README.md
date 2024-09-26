@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Magaiver, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Hello, my name is Magaiver, I am apassionate Full Stack Developer!</h1>
 <p align="center">
 <a href="https://www.instagram.com/magaiver_fullstack/"><img src="https://img.shields.io/badge/-@Magaiver_Fullstack-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="linkedin.com/in/magaiver-magalhaes-bb9572234"><img src="https://img.shields.io/badge/-Magaiver%20Magalhaes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -8,13 +8,48 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 Olá, sou o Magaiver Magalhães, um desenvolvedor Full Stack apaixonado por criar experiências incríveis na web. Com 2 anos de experiência no campo, meu foco principal está no Frontend, onde me destaco no uso das linguagens JavaScript e TypeScript, juntamente com tecnologias como React,Next.js e Node.js.
-- 💻 &nbsp; Minha jornada no mundo da programação me levou a explorar e dominar ferramentas poderosas como PostgreSQL, MongoDB e Prisma, permitindo-me criar aplicações robustas e eficientes. Além disso, sou um entusiasta do design responsivo e da criação de interfaces bonitas e intuitivas, utilizando o Tailwind CSS para alcançar resultados excepcionais.
-- 🚀 &nbsp; Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafiadores, onde pude aplicar meu conhecimento e criatividade para resolver problemas complexos e entregar soluções de alta qualidade. Estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências e tecnologias no mundo do desenvolvimento web.
-- 🛠 No meu GitHub, você encontrará uma variedade de projetos que demonstram minha paixão pela programação e meu compromisso com a excelência. Estou sempre aberto a novas oportunidades e colaborações, então não hesite em entrar em contato comigo se estiver interessado em trabalhar juntos em projetos emocionantes.
-- 💻 Tecnologias com as quais já trabalhei: HTML, css, javaScript , typeScript, React, Next, Node, Styled Components, React Router, Git, Jest, NoSQL (Mongodb), SQL (postgreSQL).
+- 👨🏻‍💻 **Hello, I’m Magaiver Magalhães, a Full Stack Developer specialized in React.js.** 🚀  
+With 2 years of experience in the field, I have been working professionally with React.js to enhance user interfaces and integrate complex systems with a focus on responsive design. I have experience in developing modern e-commerce websites using React.js and Next.js, optimizing performance with tools like Node.js, Styled Components, and Tailwind CSS. All components are thoroughly tested with Jest, and version control is managed with GitHub.
 
-- 💚 &nbsp; Obrigado por visitar meu perfil e espero poder contribuir para o seu próximo projeto!
+- 💚 **I am passionate about building user-friendly products, a strong team player, and skilled in refining processes to enhance user experience and effectively resolve project challenges.** 💡
+
+- 💻 **Technical Abilities:**
+  - React.js
+  - Next.js
+  - Node.js
+  - JavaScript
+  - TypeScript
+  - Styled Components
+  - Tailwind CSS
+  - Jest
+  - HTML5 | CSS3
+  - GitHub
+  - Docker
+  - Server-Side Rendering (SSR)
+  - Client-Side Rendering (CSR)
+  - Static Site Generation (SSG)
+  - Advanced Google Analytics
+
+- 🛠 **Tools:**
+  - Visual Studio Code
+  - GitHub
+  - Figma
+  - Postman
+  - Chrome DevTools
+
+- 🚀 **Personal Qualities:**
+  - Fluent in English
+  - Fast learner
+  - Organized
+  - Good at troubleshooting
+  - Focused on customer experience
+  - Open to giving and receiving feedback
+
+- 💻 **Phone/WhatsApp:** +55 85 98146-7094  
+- 🚀 **Professional Email:** magaivermagalhaes.mm@gmail.com
+
+#Developer #JavaScript #React #Innovation #Determination #Teamwork
+
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -27,13 +62,13 @@
 ![Vue](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end and database:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+<h2>🚀 &nbsp; A little more about my profile</h2>
 
 ![Magaiver Magalhaes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magaiverh&show_icons=true&theme=dracula)
