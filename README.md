@@ -93,7 +93,7 @@ Tecnologias com as quais já trabalhei:
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase&logoColor=FFCA28)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-333333?style=flat&logo=Drizzle&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)
+
 
 
 
