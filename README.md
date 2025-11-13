@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/magaiver-magalhaes-bb9572234/">
-  <img src="https://img.shields.io/badge/-Magaiver%20Magalhaes-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Magaiver%20Magalhaes-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:magaivermagalhaes.mm@gmail.com">
