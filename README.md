@@ -89,6 +89,10 @@ Tecnologias com as quais já trabalhei:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase&logoColor=FFCA28)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-333333?style=flat&logo=Drizzle&logoColor=white)
+
 
 <h2>🚀 &nbsp; A little more about my profile</h2>
 
