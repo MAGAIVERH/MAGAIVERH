@@ -1,8 +1,20 @@
 <h1>👋 &nbsp;Hello, my name is Magaiver, I am apassionate Full Stack Developer!</h1>
 <p align="center">
-<a href="https://www.instagram.com/magaiver_fullstack/"><img src="https://img.shields.io/badge/-@Magaiver_Fullstack-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/magaiver-magalhaes-bb9572234/"><img src="https://img.shields.io/badge/-Magaiver%20Magalhaes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:magaivermagalhaes.mm@gmail.com"><img src="https://img.shields.io/badge/-magaivermagalhaes.mm@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/magaiver_fullstack/">
+  <img src="https://img.shields.io/badge/-@Magaiver_Fullstack-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/magaiver-magalhaes-bb9572234/">
+  <img src="https://img.shields.io/badge/-Magaiver%20Magalhaes-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
+</a>
+
+<a href="mailto:magaivermagalhaes.mm@gmail.com">
+  <img src="https://img.shields.io/badge/-magaivermagalhaes.mm@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
+<a href="https://my-portifolio-three-navy.vercel.app/">
+  <img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+</a>
 
 </p>
 
