@@ -21,14 +21,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 **Hello, I’m Magaiver Magalhães, a Full Stack Developer specialized in React.js.** 🚀  
-Com mais de 3 anos de experiência no mercado, atuo no desenvolvimento de aplicações completas — do Frontend ao Backend — sempre com foco em performance, escalabilidade e design de alto impacto.
-Sou formado em Análise e Desenvolvimento de Sistemas, atualmente aguardando a emissão do diploma, e sigo aprimorando minhas habilidades para acompanhar as constantes evoluções do ecossistema tecnológico.
-Meu foco principal está no Frontend, onde me destaco no uso de JavaScript e TypeScript, juntamente com React, Next.js e Node.js. No Backend, domino tecnologias como PostgreSQL, MongoDB, Prisma, Drizzle ORM e Firebase, desenvolvendo estruturas de banco de dados, esquemas e modelos relacionais que garantem robustez e eficiência às aplicações.
-Além disso, sou um entusiasta do design responsivo e da criação de interfaces intuitivas, utilizando Tailwind CSS e Styled Components para entregar resultados visuais modernos e consistentes.
-Ao longo da minha jornada, participei de projetos desafiadores e multidisciplinares, aplicando criatividade e boas práticas de engenharia de software para resolver problemas complexos e gerar valor real aos usuários.
-No meu GitHub, você encontrará projetos que refletem minha paixão por tecnologia e meu compromisso com a excelência. Estou sempre aberto a novas oportunidades e colaborações que desafiem meus limites e me permitam crescer ainda mais como profissional.
-Tecnologias com as quais já trabalhei:
- HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Tailwind CSS • Styled Components • React Router • Prisma • Drizzle ORM • Firebase • Git • Jest • MongoDB (NoSQL) • PostgreSQL (SQL) • Database Design • Data Modeling
+Full Stack Developer with 4 years of experience building end-to-end web applications, with a strong focus on scalability, performance, architecture, and technical quality. I work with Next.js, React, TypeScript, Node.js, Fastify, PostgreSQL, Prisma, and authentication, contributing to the development of SaaS platforms, APIs, dashboards, and business rule-driven systems. I have hands-on experience across both frontend and backend development, data modeling, layer integration, production deployments, and the application of AI in product features. My profile combines autonomy, execution ability, and technical judgment aligned with mid-level to senior-level roles.
 
 - 💚 **I am passionate about building user-friendly products, a strong team player, and skilled in refining processes to enhance user experience and effectively resolve project challenges.** 💡
 
