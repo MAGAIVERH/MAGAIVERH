@@ -37,6 +37,7 @@ Full Stack Developer with 4 years of experience building end-to-end web applicat
   - Styled Components
   - Tailwind CSS
   - Jest
+  - Fastify
   - HTML5 | CSS3
   - GitHub
   - Docker
