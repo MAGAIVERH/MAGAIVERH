@@ -52,6 +52,7 @@ Full Stack Developer with 4 years of experience building end-to-end web applicat
   - Figma
   - Postman
   - Chrome DevTools
+  - AI
 
 - 🚀 **Personal Qualities:**
   - Fluent in English
