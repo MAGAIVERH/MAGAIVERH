@@ -21,7 +21,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 **Hello, I’m Magaiver Magalhães, a Full Stack Developer specialized in React.js.** 🚀  
-Full Stack Developer with 4 years of experience building end-to-end web applications, with a strong focus on scalability, performance, architecture, and technical quality. I work with Next.js, React, TypeScript, Node.js, Fastify, PostgreSQL, Prisma, and authentication, contributing to the development of SaaS platforms, APIs, dashboards, and business rule-driven systems. I have hands-on experience across both frontend and backend development, data modeling, layer integration, production deployments, and the application of AI in product features. My profile combines autonomy, execution ability, and technical judgment aligned with mid-level to senior-level roles.
+Full Stack Developer with 5 years of experience building end-to-end web applications, with a strong focus on scalability, performance, architecture, and technical quality. I work with Next.js, React, TypeScript, Node.js, Fastify, PostgreSQL, Prisma, and authentication, contributing to the development of SaaS platforms, APIs, dashboards, and business rule-driven systems. I have hands-on experience across both frontend and backend development, data modeling, layer integration, production deployments, and the application of AI in product features. My profile combines autonomy, execution ability, and technical judgment aligned with mid-level to senior-level roles.
 
 - 💚 **I am passionate about building user-friendly products, a strong team player, and skilled in refining processes to enhance user experience and effectively resolve project challenges.** 💡
 
