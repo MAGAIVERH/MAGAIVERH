@@ -59,7 +59,7 @@ I am currently engineering **PropAI OS**, a production-grade, multi-tenant Real 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magaiverh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Magaiver's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAGAIVERH&show_icons=true&theme=dracula" alt="Magaiver's GitHub Stats" />
 </p>
 
 ---
