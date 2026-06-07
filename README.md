@@ -1,4 +1,5 @@
-<h1>👋 Hi, I'm Magaiver Magalhães — Full Stack Software Engineer</h1>
+<h1 align="center">Magaiver Magalhães</h1>
+<h3 align="center">Full Stack Software Engineer · SaaS · AI Integration · Clean Architecture</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/magaiver-magalhaes-bb9572234/">
@@ -16,52 +17,91 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Software Engineer** with 5 years of experience building scalable SaaS platforms, contract-driven RESTful APIs, and production-ready web applications.
+Full Stack Software Engineer with **5 years of experience** building scalable SaaS platforms, contract-driven RESTful APIs, and production-ready web applications.
 
-* 🚀 **Architecture First:** Proficient in implementing Clean Architecture, Domain-Driven Design (DDD), and strict multi-tenant data isolation.
-* 🤖 **AI Integration:** Experienced in building async AI-powered workflows, computer vision data-extraction, and vector embeddings for semantic search.
-* 📈 **Performance & Impact:** Consistently delivering ~25% system performance gains and optimizing CI/CD pipelines to reduce deployment friction.
-* 🌍 **Global Ready:** Professional working proficiency in English, open to remote international roles and relocation.
+- 🚀 **Architecture First** — Clean Architecture, DDD, and strict multi-tenant data isolation via PostgreSQL RLS
+- 🤖 **AI Integration** — LLM workflows, Vision APIs, vector embeddings, MCP Specs, and async AI pipelines
+- 📈 **Measurable Impact** — ~25% system performance gains · ~30% reduction in deployment time
+- 🌍 **Global Ready** — Professional English · Open to remote international roles and relocation
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack
 
-### 💻 Frontend & Styling
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=flat&logo=shadcnui&logoColor=white)
 
-### ⚙️ Backend, Database & Ops
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
----
-
-## ⚡ Current Main Project: PropAI OS 🏢🤖
-I am currently engineering **PropAI OS**, a production-grade, multi-tenant Real Estate Operating System built for the US market.
-
-### Key Engineering Highlights:
-* **True Multi-Tenancy via PostgreSQL RLS:** Implemented Row-Level Security directly at the database level leveraging Drizzle ORM to ensure complete data isolation between brokerages.
-* **Event-Driven Async Workers:** Integrated **BullMQ + Redis** to handle heavy AI vision prompts and embedding generation asynchronously without blocking the HTTP request lifecycle.
-* **Pragmatic AI Layer:** Built features utilizing the **Vercel AI SDK**, including photo-to-listing automation via Vision LLMs, lead scoring, and hybrid semantic search using **pgvector**.
-* **Contract-Driven Design:** Monorepo architecture sharing **Zod contracts** between the Fastify API backend and Next.js frontend apps for zero type drift.
+### Infra & AI
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat&logo=redis&logoColor=white)
 
 ---
 
-## 📊 Overview & Core Metrics
+## ⚡ Current Project: PropAI OS
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Profile: MAGAIVERH                                          │
-│  Role: Full Stack Software Engineer                          │
-│  Specialties: Next.js • Fastify • PostgreSQL • AI Workflows  │
-│  Status: Active Core Development (PropAI OS)                │
-└──────────────────────────────────────────────────────────────┘
+> Production-grade, multi-tenant Real Estate Operating System built for the US market.
+
+| Highlight | Detail |
+|---|---|
+| 🏢 **Multi-tenancy** | PostgreSQL RLS at the database level via Drizzle ORM — zero tenant bleed |
+| ⚙️ **Async Workers** | BullMQ + Redis for AI vision prompts and embedding jobs off the HTTP thread |
+| 🤖 **AI Layer** | Vercel AI SDK · photo-to-listing via Vision LLMs · lead scoring · hybrid semantic search with pgvector |
+| 📦 **Monorepo** | Turborepo · shared Zod contracts between Fastify API and Next.js frontend |
+
+**Stack:** Next.js · Fastify · PostgreSQL · Drizzle ORM · pgvector · BullMQ · Redis · Docker · TypeScript
+
+---
+
+## 📂 Featured Projects
+
+### 🥋 [Jiu-Jitsu Academy SaaS](https://jiujitsu-academy.vercel.app/)
+Full-stack management platform for a martial arts academy — scheduling, attendance, finances, and student management.
+
+> Try it: `admin@testeacademia.com` / `testeacademia@2026`
+
+**Stack:** Next.js 15 · TypeScript (strict) · Drizzle ORM · Neon · Better Auth · Stripe · Shadcn/UI
+
+---
+
+### 🏋️ [FIT.AI](https://fit-ai.vercel.app/)
+AI-powered fitness platform that automates personalized workout generation — reduced planning time from 20–40 min to seconds.
+
+**Stack:** Next.js · Fastify · Prisma · PostgreSQL · Better Auth · Vercel AI SDK
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MAGAIVERH&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGAIVERH&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top languages"/>
+</p>
+
+---
+
+## 🌍 Open To
+
+- Remote roles (EU · US · Global)
+- Relocation (Spain · Estonia · Europe)
+- Visa sponsorship considered
+
+---
+
+<p align="center">
+  <sub>Based in Fortaleza, Brazil · English: Professional Working Proficiency · Português: Native</sub>
+</p>
