@@ -56,13 +56,12 @@ I am currently engineering **PropAI OS**, a production-grade, multi-tenant Real 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Overview & Core Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAGAIVERH&show_icons=true&theme=dracula" alt="Magaiver's GitHub Stats" />
-</p>
-
----
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares."</i>
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  Profile: MAGAIVERH                                          │
+│  Role: Full Stack Software Engineer                          │
+│  Specialties: Next.js • Fastify • PostgreSQL • AI Workflows  │
+│  Status: Active Core Development (PropAI OS)                │
+└──────────────────────────────────────────────────────────────┘
