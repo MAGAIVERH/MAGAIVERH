@@ -88,8 +88,9 @@ AI-powered fitness platform that automates personalized workout generation — r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MAGAIVERH&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGAIVERH&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MAGAIVERH&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGAIVERH&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top languages"/>
 </p>
 
 ---
